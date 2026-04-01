@@ -128,6 +128,5 @@ El resultado es un código más robusto, mantenible y fácil de extender - exact
 
 ---
 
-**Autor**: [Tu Nombre]  
-**Curso**: Programación de Sistemas Web  
+
 **Institución**: Valle Grande
